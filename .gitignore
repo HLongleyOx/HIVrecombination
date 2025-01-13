@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rproj.user
+*.csv
+*.fasta
+*.txt
+__pycache__/
+.DS_Store
